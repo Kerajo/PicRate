@@ -17,8 +17,8 @@
 ## Технологии
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js / Express (или укажи свою технологию)  
-- **База данных:** MongoDB / MySQL (укажи используемую)  
+- **Backend:** Node.js
+- **База данных:** SQLite
 - **Инструменты:** Git, VS Code  
 
 ---
